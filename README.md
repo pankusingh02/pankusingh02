@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pankaj singh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m a React Developer
 - 💞️ I’m looking to collaborate on web development projects
 
 
