@@ -16,11 +16,11 @@ I am currently working as a Data Engineer and constantly pushing the boundaries 
 
 - **Languages**: Python, SQL, Bash
 - **Data Engineering**: Apache Spark, PySpark, Airflow, Kafka, DBT
-- **Databases**: PostgreSQL, MySQL, Snowflake, BigQuery
+- **Databases**: PostgreSQL, MySQL, BigQuery
 - **Cloud Platforms**: AWS, GCP, Azure
 - **Data Lakes & Warehouses**: S3, Redshift, Delta Lake
-- **DevOps & Monitoring**: Git, Docker, CI/CD, Prometheus, Grafana
-- **ETL/ELT Tools**: Pandas, Prefect, Apache NiFi
+- **DevOps & Monitoring**: Git, Docker, CI/CD
+- **ETL/ELT Tools**: Pandas, Prefect
 
 ---
 
