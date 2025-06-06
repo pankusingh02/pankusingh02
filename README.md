@@ -47,7 +47,7 @@ I am currently working as a Data Engineer and constantly pushing the boundaries 
 ### 📢 Let's Connect
 
 - 📫 [Email Me](mailto:pankajaswal2018@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pankaj-singh-9a46a61b3/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/pankaj-singh-9a46a61b3/)
 - 🔄 Always open to collaboration, mentorship, or a quick geeky chat!
 
 ---
